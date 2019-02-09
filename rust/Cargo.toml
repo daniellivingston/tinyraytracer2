@@ -1,0 +1,8 @@
+[package]
+name = "tinyraytracer"
+version = "0.1.0"
+authors = ["Daniel Reece Livingston <livingston@lanl.gov>"]
+edition = "2018"
+
+[dependencies]
+raster = "0.2.0"
